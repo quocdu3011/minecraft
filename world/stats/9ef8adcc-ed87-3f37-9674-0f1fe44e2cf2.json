@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:cherry_log": 2,
+      "minecraft:cherry_sapling": 1,
+      "minecraft:dirt": 1,
+      "minecraft:grass_block": 6
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_axe": 1,
+      "minecraft:cooked_rabbit": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:cherry_planks": 184
+    },
+    "minecraft:used": {
+      "minecraft:cooked_rabbit": 1,
+      "minecraft:bread": 5
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 8945,
+      "minecraft:walk_one_cm": 22046,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 1646,
+      "minecraft:damage_taken": 444,
+      "minecraft:damage_dealt": 14,
+      "minecraft:play_time": 8945,
+      "minecraft:jump": 235,
+      "minecraft:time_since_death": 8945,
+      "minecraft:bell_ring": 4,
+      "minecraft:sprint_one_cm": 30771,
+      "minecraft:open_chest": 13,
+      "minecraft:interact_with_smoker": 1,
+      "minecraft:fall_one_cm": 10230,
+      "minecraft:swim_one_cm": 877,
+      "minecraft:total_world_time": 8945,
+      "minecraft:fly_one_cm": 57629,
+      "minecraft:walk_on_water_one_cm": 1047,
+      "minecraft:climb_one_cm": 412
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 7,
+      "minecraft:stick": 7,
+      "minecraft:cherry_sapling": 14,
+      "minecraft:cherry_log": 54
+    }
+  },
+  "DataVersion": 4671
+}

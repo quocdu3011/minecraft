@@ -1,0 +1,8 @@
+# Language: en (English) or de (Deutsch/German)
+language: "en"
+
+sound:
+  enabled: true
+  type: "ENTITY_EXPERIENCE_ORB_PICKUP"
+  volume: 1.0
+  pitch: 1.2
